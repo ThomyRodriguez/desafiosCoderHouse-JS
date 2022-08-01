@@ -1,5 +1,3 @@
-
-
 // Venta de entradas para un show
 
 let entradas = 10 
