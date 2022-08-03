@@ -70,7 +70,7 @@ do {
                             alert("Reserva cancelada")
                         }
                 }
-            if (eleccionTurno > 2  || cantidadInvitados > 250 || eleccionTurno < 1 ){
+            if (eleccionTurno > 2  || cantidadInvitados > 250 || eleccionTurno < 1 || eleccionTurno  ){
                     alert("Datos ingresados erroneos, intente nuevamente")
                 }
         break;     
@@ -97,6 +97,7 @@ do {
             if (eleccionTurno > 2  || cantidadInvitados > 250 || eleccionTurno < 1 ){
                     alert("Datos ingresados erroneos, intente nuevamente")
                 }
+            
         break;
         case "4":
         case "abril":
