@@ -178,7 +178,7 @@ do {
 }while (confirm("Desea continuar viendo el calendario") == true);
 
 
-//Estaba pensando en optimizarlo, reemplazando cada if por una funcion, para no hacerlo menos pesado y no recurrir a tantos if
+//Estaba pensando en optimizarlo, reemplazando cada if por una funcion, para menos pesado y no recurrir a tantos if
 
 
 
